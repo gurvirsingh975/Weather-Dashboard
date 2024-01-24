@@ -18,7 +18,8 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ##Images
-
+![Alt Text](https://github.com/gurvirsingh975/Weather-Dashboard/blob/main/Images/Image1.PNG?raw=true)
+![Alt Text](https://github.com/gurvirsingh975/Weather-Dashboard/blob/main/Images/Image%202.PNG?raw=true)
 
 
 ##Deployement Links
